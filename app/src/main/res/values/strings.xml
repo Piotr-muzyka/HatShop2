@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HatShop</string>
+    <string name="address"> ADDRESS: </string>
+    <string name="street"> Baker St. 67, 00-001 London </string>
+    <string name="contact"> CONTACT: </string>
+    <string name="phone"> +01 COVER-YOUR-HEAD </string>
+    <string name="open"> OPEN:  </string>
+    <string name="hours"> Whole week from 1 AM to 3 PM </string>
+</resources>
